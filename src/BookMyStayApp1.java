@@ -88,7 +88,7 @@ class SuiteRoom extends Room {
 
 
 
-public class BookMyStayApp {
+public class BookMyStayApp1 {
 
     public static void main(String[] args) {
 
